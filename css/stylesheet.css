@@ -1,0 +1,31 @@
+#container {
+	height: 512px;
+	width: 512px;
+	background-color: red;
+	margin: 0px;
+	font-size: 0px;
+}
+
+/*button {
+	background-color: gray;
+	border-radius: 5px;
+	border-color: 1px black;
+	}*/
+
+.bricks {
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 0;
+}
+
+.bricksize {
+	height: 128px;
+	width: 128px;
+}
+
+.uncolored {
+	background-color: yellow;
+}
+.colored {
+	background-color: blue;
+}
